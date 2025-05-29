@@ -4,7 +4,6 @@ import Navbar from './components/Navbar/Navbar.jsx';
 import Video from './Pages/Video/Video.jsx';
 import Home from './Pages/Home/Home.jsx';
 
-
 function App() {
   const [sidebar, setSidebar] = useState(true);
 
